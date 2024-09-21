@@ -1,2 +1,1 @@
-
-wujunwei928/parse-video:latest
+scratch
